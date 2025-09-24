@@ -6,5 +6,5 @@ do
         git commit -m "auto update: $(date '+%Y-%m-%d %H:%M:%S')"
         git push
     fi
-    sleep 30
+    sleep 10
 done
